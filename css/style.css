@@ -6,7 +6,7 @@
 
 html {
     font-family: 'Roboto', sans-serif;
-    text-decoration-skip-ink: none;
+    /* text-decoration-skip-ink: none; */
 }
 
 .container {
@@ -311,7 +311,7 @@ footer a {
     text-decoration: none;
 }
 
-.underline {
+.info .info_links span {
     text-decoration: underline;
 }
 
